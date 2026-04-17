@@ -16,6 +16,12 @@
 
 <h1 align="center">hey there 👋</h1>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&color=FF00FF&center=true&vCenter=true&width=600&lines=INSERT+COIN+TO+CONTINUE...;BUILDING+SYSTEMS...;LEVELING+UP+DEVELOPER+SKILLS" />
+
+</div>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -107,32 +113,8 @@
 </div>
 
 
-## 📊 GITHUB STATS (NEON STYLE)
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jnzhng444&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jnzhng444&theme=tokyonight&hide_border=true" />
-
+  <img src="https://raw.githubusercontent.com/jnzhng444/jnzhng444/output/pacman.svg" />
 </div>
 
----
 
-## 🐍 CONTRIBUTIONS (WORKING ANIMATION)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jnzhng444/jnzhng444/output/snake.svg" />
-
-</div>
-
----
-
-## ⚡ ARCADE VIBE
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&color=FF00FF&center=true&vCenter=true&width=600&lines=INSERT+COIN+TO+CONTINUE...;BUILDING+SYSTEMS...;LEVELING+UP+DEVELOPER+SKILLS" />
-
-</div>
