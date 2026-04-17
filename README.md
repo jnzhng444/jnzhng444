@@ -4,8 +4,6 @@
   <img height="150" src="https://raw.githubusercontent.com/jnzhng444/jnzhng444/main/githubreadme.gif" />
 </div>
 
-###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="wechat logo"  />
