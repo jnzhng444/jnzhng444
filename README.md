@@ -6,9 +6,9 @@
 
 ###
 
-[[<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ285dDBlcDN6MG94bDNqeGpnZTRsM24zaGFieXJkZnJxZHVqNXYzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0Suz5KWfta1GVrl4n/giphy.gif"  />
-</div>](https://raw.githubusercontent.com/jnzhng444/jnzhng444/main/perfil.gif)](https://raw.githubusercontent.com/jnzhng444/jnzhng444/main/githubreadme.gif)
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/jnzhng444/jnzhng444/main/githubreadme.gif" />
+</div>
 
 ###
 
@@ -71,5 +71,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
-
-###
