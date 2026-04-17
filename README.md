@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&color=FF00FF&center=true&vCenter=true&width=600&lines=INSERT+COIN+TO+CONTINUE...;BUILDING+SYSTEMS...;LEVELING+UP+DEVELOPER+SKILLS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+Computer+Engineering+Profile...;Loading+Embedded+Systems+Module...;Initializing+FPGA+Design+Toolchain...;Compiling+SystemVerilog+Modules...;Loading+Computer+Architecture+Knowledge...;Connecting+Full+Stack+Development+Layer...;System+Ready" />
 
 </div>
 
