@@ -108,5 +108,73 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jnzhng444/jnzhng444/output/pacman.svg" />
+
+<!-- NEON TITLE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=800&color=00FFF7&center=true&vCenter=true&width=600&lines=JIAN+ZHENG;CYBERPUNK+DEVELOPER;EMBEDDED+SYSTEMS+%7C+FULL+STACK;WELCOME+TO+THE+ARCADE" />
+
+<br><br>
+
+<!-- ARCADE BACKGROUND FRAME -->
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="#0d0d0d"/>
+
+  <!-- Neon grid -->
+  <g stroke="#00fff7" stroke-opacity="0.08">
+    <path d="M0 40 H900"/>
+    <path d="M0 80 H900"/>
+    <path d="M0 120 H900"/>
+    <path d="M0 160 H900"/>
+    <path d="M0 200 H900"/>
+
+    <path d="M100 0 V220"/>
+    <path d="M200 0 V220"/>
+    <path d="M300 0 V220"/>
+    <path d="M400 0 V220"/>
+    <path d="M500 0 V220"/>
+    <path d="M600 0 V220"/>
+    <path d="M700 0 V220"/>
+    <path d="M800 0 V220"/>
+  </g>
+
+  <!-- PACMAN -->
+  <circle cx="120" cy="110" r="18" fill="#FFD700">
+    <animate attributeName="cx" from="120" to="780" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Pacman mouth -->
+  <polygon points="120,110 135,100 135,120" fill="#0d0d0d">
+    <animate attributeName="points"
+      values="120,110 135,100 135,120;120,110 130,90 130,130;120,110 135,100 135,120"
+      dur="0.4s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- Ghosts -->
+  <g>
+    <rect x="200" y="95" width="20" height="20" fill="#ff00ff">
+      <animate attributeName="x" from="200" to="820" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="260" y="95" width="20" height="20" fill="#00ffff">
+      <animate attributeName="x" from="260" to="880" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Dots -->
+  <g fill="#ffffff">
+    <circle cx="160" cy="110" r="3"/>
+    <circle cx="200" cy="110" r="3"/>
+    <circle cx="240" cy="110" r="3"/>
+    <circle cx="280" cy="110" r="3"/>
+    <circle cx="320" cy="110" r="3"/>
+    <circle cx="360" cy="110" r="3"/>
+    <circle cx="400" cy="110" r="3"/>
+    <circle cx="440" cy="110" r="3"/>
+    <circle cx="480" cy="110" r="3"/>
+    <circle cx="520" cy="110" r="3"/>
+  </g>
+
+</svg>
+
 </div>
